@@ -1,6 +1,8 @@
-Name: Prince,
-Surname: Maika,
-Student Number: 3080357.
+Name: Prince
+
+Surname: Maika
+
+Student Number: 3080357
 
 This essay explores the instruments astronomers use to observe the universe, create new theories and test existing theories against new information
 
@@ -31,6 +33,7 @@ Conclusion
 From the photon counting efficiency of CCDs to the synthetic aperture of radio interferometers, modern telescopes have transformed our understanding of the cosmos. Where Galileo once observed Saturn with a small refractor, astronomers now study galaxy formation less than 500 million years after the Big Bang. The James Webb Space Telescope represents the peak of these technologies orbiting 1.5 million kilometers from Earth, protected by a tennis court sized sunscreen, and collecting infrared light from the universe’s first galaxies. As larger observatories like the European Extremely Large Telescope (39.3-meter mirror) come online, our vision into the invisible universe will only grow sharper.
 
 Bibliography
+
 [1] OpenStax Astronomy, "Chapter 6: Astronomical Instruments," 2023.
 
 [2] European Southern Observatory, "ESO Telescope Instrumentation," https://www.eso.org/sci/facilities/eelt/, accessed 2026.
